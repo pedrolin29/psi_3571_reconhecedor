@@ -1,4 +1,4 @@
-# psi_3571_reconhecedor
+# Reconhecedor de Fake News - Projeto da Disciplina PSI-3571
 Repositório para o trabalho de PSI 3571. Nesse repositório vamos centralizar o código do nosso reconhecedor para o trabalho final da disciplina.
 
 ## Getting Started
